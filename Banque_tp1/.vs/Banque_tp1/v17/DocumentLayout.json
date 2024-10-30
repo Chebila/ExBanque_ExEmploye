@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\HistoryTransaction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|solutionrelative:HistoryTransaction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Transaction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|solutionrelative:Transaction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Banque_tp1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|solutionrelative:Banque_tp1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Save_Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|solutionrelative:Save_Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\MAD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|solutionrelative:MAD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Euro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|solutionrelative:Euro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Dollar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|solutionrelative:Dollar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Devise.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|solutionrelative:Devise.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Customer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|solutionrelative:Customer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Current_Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|solutionrelative:Current_Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|solutionrelative:Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Transaction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|solutionrelative:Transaction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Save_Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|solutionrelative:Save_Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\MAD.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|solutionrelative:MAD.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\HistoryTransaction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|solutionrelative:HistoryTransaction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Euro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|solutionrelative:Euro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Dollar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|solutionrelative:Dollar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Devise.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|solutionrelative:Devise.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Customer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|solutionrelative:Customer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Current_Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|solutionrelative:Current_Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8808BE8-6C65-459C-BEF3-67DE5D1F0B46}|Banque_tp1.vcxproj|solutionrelative:Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transaction.cpp",
+              "DocumentMoniker": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Transaction.cpp",
+              "RelativeDocumentMoniker": "Transaction.cpp",
+              "ToolTip": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Transaction.cpp",
+              "RelativeToolTip": "Transaction.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T09:29:09.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Save_Account.cpp",
+              "DocumentMoniker": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Save_Account.cpp",
+              "RelativeDocumentMoniker": "Save_Account.cpp",
+              "ToolTip": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Save_Account.cpp",
+              "RelativeToolTip": "Save_Account.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T09:29:00.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MAD.cpp",
+              "DocumentMoniker": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\MAD.cpp",
+              "RelativeDocumentMoniker": "MAD.cpp",
+              "ToolTip": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\MAD.cpp",
+              "RelativeToolTip": "MAD.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T09:28:50.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HistoryTransaction.cpp",
+              "DocumentMoniker": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\HistoryTransaction.cpp",
+              "RelativeDocumentMoniker": "HistoryTransaction.cpp",
+              "ToolTip": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\HistoryTransaction.cpp",
+              "RelativeToolTip": "HistoryTransaction.cpp",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwB0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T09:28:41.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Euro.cpp",
+              "DocumentMoniker": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Euro.cpp",
+              "RelativeDocumentMoniker": "Euro.cpp",
+              "ToolTip": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Euro.cpp",
+              "RelativeToolTip": "Euro.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T09:28:30.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dollar.cpp",
+              "DocumentMoniker": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Dollar.cpp",
+              "RelativeDocumentMoniker": "Dollar.cpp",
+              "ToolTip": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Dollar.cpp",
+              "RelativeToolTip": "Dollar.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T09:28:23.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Devise.cpp",
+              "DocumentMoniker": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Devise.cpp",
+              "RelativeDocumentMoniker": "Devise.cpp",
+              "ToolTip": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Devise.cpp",
+              "RelativeToolTip": "Devise.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwDsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T09:28:15.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cpp",
+              "DocumentMoniker": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Customer.cpp",
+              "RelativeDocumentMoniker": "Customer.cpp",
+              "ToolTip": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Customer.cpp",
+              "RelativeToolTip": "Customer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T09:28:07.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Banque_tp1.cpp",
+              "DocumentMoniker": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Banque_tp1.cpp",
+              "RelativeDocumentMoniker": "Banque_tp1.cpp",
+              "ToolTip": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Banque_tp1.cpp",
+              "RelativeToolTip": "Banque_tp1.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T09:17:57.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Current_Account.cpp",
+              "DocumentMoniker": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Current_Account.cpp",
+              "RelativeDocumentMoniker": "Current_Account.cpp",
+              "ToolTip": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Current_Account.cpp",
+              "RelativeToolTip": "Current_Account.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T09:27:52.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Account.cpp",
+              "DocumentMoniker": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Account.cpp",
+              "RelativeDocumentMoniker": "Account.cpp",
+              "ToolTip": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Account.cpp",
+              "RelativeToolTip": "Account.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T09:27:39.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Save_Account.h",
+              "DocumentMoniker": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Save_Account.h",
+              "RelativeDocumentMoniker": "Save_Account.h",
+              "ToolTip": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Save_Account.h",
+              "RelativeToolTip": "Save_Account.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-30T09:25:22.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MAD.h",
+              "DocumentMoniker": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\MAD.h",
+              "RelativeDocumentMoniker": "MAD.h",
+              "ToolTip": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\MAD.h",
+              "RelativeToolTip": "MAD.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-30T09:23:40.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Transaction.h",
+              "DocumentMoniker": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Transaction.h",
+              "RelativeDocumentMoniker": "Transaction.h",
+              "ToolTip": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Transaction.h",
+              "RelativeToolTip": "Transaction.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-30T09:24:14.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HistoryTransaction.h",
+              "DocumentMoniker": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\HistoryTransaction.h",
+              "RelativeDocumentMoniker": "HistoryTransaction.h",
+              "ToolTip": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\HistoryTransaction.h",
+              "RelativeToolTip": "HistoryTransaction.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-30T09:24:32.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Euro.h",
+              "DocumentMoniker": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Euro.h",
+              "RelativeDocumentMoniker": "Euro.h",
+              "ToolTip": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Euro.h",
+              "RelativeToolTip": "Euro.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-30T09:23:29.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dollar.h",
+              "DocumentMoniker": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Dollar.h",
+              "RelativeDocumentMoniker": "Dollar.h",
+              "ToolTip": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Dollar.h",
+              "RelativeToolTip": "Dollar.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-30T09:23:57.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Customer.h",
+              "DocumentMoniker": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Customer.h",
+              "RelativeDocumentMoniker": "Customer.h",
+              "ToolTip": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Customer.h",
+              "RelativeToolTip": "Customer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-30T09:23:04.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Current_Account.h",
+              "DocumentMoniker": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Current_Account.h",
+              "RelativeDocumentMoniker": "Current_Account.h",
+              "ToolTip": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Current_Account.h",
+              "RelativeToolTip": "Current_Account.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-30T09:25:05.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Account.h",
+              "DocumentMoniker": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Account.h",
+              "RelativeDocumentMoniker": "Account.h",
+              "ToolTip": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Account.h",
+              "RelativeToolTip": "Account.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-30T09:24:46.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Devise.h",
+              "DocumentMoniker": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Devise.h",
+              "RelativeDocumentMoniker": "Devise.h",
+              "ToolTip": "C:\\Users\\douae\\OneDrive\\Bureau\\ILISI\\ILISI 2\\Orient\u00E9_Objet_c\u002B\u002B\\TPs\\Banque_tp1\\Devise.h",
+              "RelativeToolTip": "Devise.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-30T09:23:15.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
