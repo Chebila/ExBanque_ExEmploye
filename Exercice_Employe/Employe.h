@@ -13,7 +13,9 @@ protected:
 	double salaire;
 public:
 	Employe(string nom, string prenom, int nbrHeureT);
-	virtual double Calculer_salaireB();
+	virtual void Calculer_salaireB();
 	virtual void print_employe()const;
+	//definir l'operateur cast
+	operator double() const;
 };
 

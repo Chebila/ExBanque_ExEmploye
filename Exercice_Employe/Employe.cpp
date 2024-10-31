@@ -5,9 +5,9 @@ Employe::Employe(string n, string p, int nbrHt) : nom(n), prenom(p), nbrHeureT(n
     salaire = 0.0;
 }
 
-double Employe::Calculer_salaireB()
+void Employe::Calculer_salaireB()
 {
-    return nbrHeureT*taux_horaire;
+    salaire += nbrHeureT*taux_horaire;
 }
 
 void Employe::print_employe() const
@@ -16,4 +16,9 @@ void Employe::print_employe() const
     cout << "Nom : " << this->nom << endl;
     cout << "Prenom : " << this->prenom << endl;
     cout << "Heure de trvail : " << this->nbrHeureT << endl;
+}
+
+Employe::operator double() const
+{
+    return this->salaire;
 }

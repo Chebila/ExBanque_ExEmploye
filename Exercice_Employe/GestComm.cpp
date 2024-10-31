@@ -3,10 +3,11 @@
 GestComm::GestComm(string n, string p, int nbrT, double SF, int totalV)
 	: Employe(n, p, nbrT), Gestionnaire(n, p, nbrT, SF), Commercial(n, p, nbrT, totalV)
 {}
-double GestComm::Calculer_salaireB()
+
+void GestComm::Calculer_salaireB()
 {
-	this->salaire = Gestionnaire::Calculer_salaireB() + Commercial::Calculer_salaireB();
-	return salaire;
+	Commercial::Calculer_salaireB();
+	Gestionnaire::Calculer_salaireB();
 }
 
 

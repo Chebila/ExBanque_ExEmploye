@@ -15,7 +15,8 @@ double Entreprise::calculerTotalSalarie() const
     // on utilise auto ici parce qu'on sait la nature d'employe (gest/comm ou getComm)
     for (auto emp : this->employes) 
     {
-        total += emp->Calculer_salaireB();
+        //emp->Calculer_salaireB();
+        total += static_cast<double>(*emp);
     }
     return total;
 }

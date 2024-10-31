@@ -8,6 +8,7 @@ using namespace std;
 #include "Dollar.h"
 #include "HistoryTransaction.h"
 #include "Current_Account.h"
+#include "Save_Account.h"
 using namespace ILISI_bank;
 int main()
 {
@@ -22,7 +23,7 @@ int main()
 
     HistoryTransaction* h1 = new HistoryTransaction();
     string date1 = "29102024";
-    Current_Account* acc1 = new Current_Account(c1, d1, h1, date1);
+    /*Current_Account* acc1 = new Current_Account(c1, d1, h1, date1);
     acc1->print_account();
 
     Devise* d4 = d2->ConvertTo("MAD");
@@ -30,5 +31,8 @@ int main()
     acc1->print_account();
 
     acc1->retrait(d3, "29102024");
-    acc1->print_account();
+    acc1->print_account();*/
+
+    Save_Account* s1 = new Save_Account(c1,d1,h1,date1);
+
 }

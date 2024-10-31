@@ -8,7 +8,7 @@ protected:
 	int total_vente;
 public:
 	Commercial(string nom, string prenom, int nbrHeureT, int totalV);
-	double Calculer_salaireB() override;
+	void Calculer_salaireB() override;
 	void print_employe()const override;
 };
 

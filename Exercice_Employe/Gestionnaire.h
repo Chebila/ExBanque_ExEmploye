@@ -6,7 +6,7 @@ protected:
 	double salaire_fixe;
 public:
 	Gestionnaire(string nom, string prenom, int nbrHeureT, double SF);
-	double Calculer_salaireB()override;
+	void Calculer_salaireB()override;
 	void print_employe()const override;
 };
 
